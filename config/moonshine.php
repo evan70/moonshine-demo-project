@@ -30,7 +30,7 @@ return [
         //
     ],
     'tinymce' => [
-        'token' => ''
+        'token' => 'skahid6h92h20zlwiueutx5kc78ow2bin44x9r6zrjp1xoh4'
     ],
 
     'socialite' => [
